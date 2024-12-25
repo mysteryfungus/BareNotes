@@ -1,16 +1,10 @@
-# simplenotes
+# BareNotes
 
-A simple note app
+A simple note app. As barebones as it gets!
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Planned additions
+- [ ] Custom theme creation
+- [ ] Improvement of note display
+- [ ] Storing notes as files
+- [ ] Attachments to notes
+- [ ] And a lot more... 
