@@ -1,6 +1,6 @@
 # BareNotes
 
-A simple note app. As barebones as it gets!
+A simple notes app. As barebones as it gets!
 
 ## Planned additions
 - [ ] Custom theme creation
