@@ -7,4 +7,4 @@ A simple notes app. As barebones as it gets!
 - [ ] Improvement of note display
 - [ ] Storing notes as files
 - [ ] Attachments to notes
-- [ ] And a lot more... 
+- [ ] Redesign
